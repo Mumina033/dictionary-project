@@ -1,3 +1,11 @@
+body {
+  background: rgba(128, 128, 128, 0.231);
+}
+
+a {
+  color: rgb(71, 40, 40);
+}
+
 .Header {
   text-align: center;
   font-size: 70px;
